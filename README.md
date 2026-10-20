@@ -1,4 +1,4 @@
-# Closure Issues — Binary-relation properties and closures in C
+# Closure Issues: Binary-relation properties and closures in C
 
 Closure Issues translates definitions from discrete mathematics into an explainable command-line report. It examines six properties of a binary relation, identifies the ordered pairs behind failed conditions, and constructs reflexive, symmetric, and transitive closures.
 
